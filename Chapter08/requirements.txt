@@ -1,8 +1,8 @@
 flask==0.10.1
-pymongo==3.4.0
+pymongo==2.8.1
 flask-cors==3.0.2
 bcrypt
-pymongo
-flask-pymongo
+flask-pymongo==0.5.2
 auth0-python
 requests
+flask-mongoalchemy
