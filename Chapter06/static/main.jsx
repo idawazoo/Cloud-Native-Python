@@ -1,6 +1,6 @@
 import Tweet from "./components/Tweet";
 import TweetList from "./components/TweetList";
-import cookie from 'react-cookie';
+import cookie from 'react-cookies';
 import TActions from "./actions/Tactions";
 import TStore from "./stores/TStore";
 
